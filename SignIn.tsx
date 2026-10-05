@@ -62,7 +62,7 @@ function LoginContent() {
               </Pressable>
             </View>
             <View style={styles.staticInputBox}>
-              <Text style={styles.placeholderText}>••••••••</Text>
+              <Text style={styles.placeholderText}>• • • • • • • •</Text>
             </View>
           </View>
 

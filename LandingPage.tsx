@@ -1,12 +1,5 @@
 import React from 'react';
-import {
-  StyleSheet,
-  View,
-  Text,
-  Image,
-  Pressable,
-  Alert,
-  StatusBar,
+import {StyleSheet, View, Text, Image, Pressable, Alert, StatusBar,
 } from 'react-native';
 
 export default function LandingPage() {
@@ -58,7 +51,7 @@ export default function LandingPage() {
               { opacity: pressed ? 0.8 : 1.0 },
             ]}
           >
-            <Text style={styles.btnText}>Mulai  →</Text>
+            <Text style={styles.btnText}>Mulai</Text>
           </Pressable>
         </View>
 
